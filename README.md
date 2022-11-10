@@ -1,12 +1,7 @@
-### Hi there 👋
-
-<!--
-**F-Herbert/F-Herbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-hi 🔭I´am Felipe Herbert 🌱I’m interested in React,Node,TypeScript<br>I'm currently learning many languages<br>I'm looking for an opportunity in the market
+* 👋 Hi i´am Felipe Herbert  
+* :eyes: I’m interested in React,Node,TypeScript,Javascript, HTML, CSS<br>
+* :orange_book: I'm currently learning many languages<br>
+* :mag: I'm looking for an opportunity in the market
 
 
 ## 🌐 Socials:
@@ -22,4 +17,4 @@ hi 🔭I´am Felipe Herbert 🌱I’m interested in React,Node,TypeScript<br>I'm
 ---
 [![](https://visitcount.itsvg.in/api?id=f-herbert&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
