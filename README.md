@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Felipe Herbert  
-* :eyes: I’m interested in React,Node,TypeScript,Javascript, HTML, CSS<br>
+* :eyes: I’m interested in Node,TypeScript,Javascript, MySql<br>
 * :orange_book: I'm currently learning many languages<br>
 * :mag: I'm looking for an opportunity in the market
 
